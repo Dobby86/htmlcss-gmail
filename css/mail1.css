@@ -1,0 +1,92 @@
+*{
+    /*border:solid 1px red ;*/
+}
+
+body {
+    width: 50%;
+    margin: 0 auto;
+    background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+
+h2{
+    margin-right: 180px;
+}
+
+#num{
+    border-radius: 80px;
+    background-color: yellow;
+
+
+}
+
+.nonlette{
+    color: white;
+    margin:20px 10px;
+    font-family: 'Odibee Sans', cursive;
+
+}
+
+#cerchio{
+    border-radius: 300%;
+    background-color: yellow;
+}
+
+
+#bottone-ricerca {
+    color: red;
+    font-family: 'Odibee Sans', cursive;
+    border-radius: 100px;
+}
+
+#titolo {
+    display:inline-block;
+    margin-top:3%;
+    position: absolute;
+    vertical-align: middle;
+
+}
+
+
+header {
+    height: 200px;
+    background-color: rgba(165, 90, 60, 0.5);
+    margin-bottom: 50px;
+    border:solid 2px red;
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Odibee Sans', cursive;
+}
+
+#img-profile {
+    height: 100px;
+    margin:20px 10px;
+    display:inline-block;
+}
+
+#search {
+    height: 80px;
+    background-color: rgba(120, 90, 120, 0.5);
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+#gmail {
+    margin: 0 auto;
+    border: solid 4px #33cc33k;
+    background-size: 50px 40px
+
+}
+
+#grigio{
+    background-color: #737373;
+}
+
+.mail{
+    border:solid 1px white;
+    color: black;
+    background-color: #b3b3b3;
+    border-radius: 5px;
+}
+footer{
+    color: black;
+}
